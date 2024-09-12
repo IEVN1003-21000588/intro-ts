@@ -4,6 +4,7 @@ import './temas-ts/02-interfaz.ts'
 import './temas-ts/03-funciones.ts'
 import './temas-ts/04-destruccion-obj-arre.ts'*/
 import './temas-ts/Practica-2-area.ts'
+import './temas-ts/Practica-2-volumen.ts'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
